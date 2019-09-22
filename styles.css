@@ -1,0 +1,86 @@
+
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2019/05/02/10/06/waterfall-4173036_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .select {
+    margin-left: 20%;
+    margin-right: 20%;
+    color: white;
+    background-color: cyan;
+  }
+  input{
+  width: 35%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  
+  }
+
+  
+  .footer {
+    height: 15%;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: rgb(80, 22, 22);
+    text-align: center;
+    margin-top:15%;                                                                    
+  }
+  p {
+  color: white;
+    font-size: x-large;
+  }
+  .pet {
+    background-color: grey;
+    margin-right: 100px;
+    text-align: center;
+  }
+  .post{
+    background-color: grey;
+    color: white;
+    padding-right: 20px;
+    margin-right: 100px;
+    text-align: center;
+  }
+
+   #od{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+   td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: black;}
+  
+ tr:hover {background-color:rgb(189, 189, 218);}
+  
+   th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: blue;
+  }
+h1{
+  font-size: x-large;
+  color: white;
+  background-color: lightblue;
+
+}
+h2{
+  font-size: x-large;
+  color: black;
+  background-color: lightblue;
+}
+h3{
+  font-size: x-large;
+  color: black;
+  background-color: lightblue;
+}
